@@ -1,5 +1,5 @@
 
-### 3. SCALABILITY.md file बना दो (root में)
+
 
 ```md
 # Scalability & Deployment Note
